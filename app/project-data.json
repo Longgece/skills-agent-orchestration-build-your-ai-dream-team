@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {"name":"Apollo Revamp","owner":"Mona","status":"Active","recentActivity":"Updated milestones and fixed CI","priority":"High"},
+    {"name":"Zenith Mobile","owner":"Jordan","status":"On Hold","recentActivity":"Awaiting design assets","priority":"Medium"},
+    {"name":"Neon Analytics","owner":"Priya","status":"Active","recentActivity":"Deployed initial pipeline","priority":"High"},
+    {"name":"Aurora UI","owner":"Sam","status":"Blocked","recentActivity":"Dependency upgrade blocking work","priority":"High"},
+    {"name":"Boreal Docs","owner":"Ava","status":"Completed","recentActivity":"Final review done","priority":"Low"},
+    {"name":"Comet Integration","owner":"Ravi","status":"Active","recentActivity":"Integration tests passing","priority":"Medium"}
+  ]
+}
